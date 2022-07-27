@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kozhen24
-- 👀 I’m interested in ...learning codeing 
+- 👀 I’m interested in ...learning coding 
 - 🌱 I’m currently learning ... nothing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
